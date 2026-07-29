@@ -6,7 +6,10 @@ I also 3dprinted it and assembled it and it worked well! I learnt a lot more abo
 
 **Total time spent:75 mins**
 
+# Julie 25th and 26th
+This was more of me actually starting the project, and i was a bit lost. this isnt a traditional project in the sense that the first thing to do would be designing a pcb, and a pcb was more of an afterthought. to start off, i thought it was a good idea to get a bom working, so i did some claude assisted research. most of my bom is done. i also roughly drafted the wiring diagram and my thoughts in the brainstorm.md. and i made a todo checklist.
 
+**Total time spent: 100 mins**
 
 
 
