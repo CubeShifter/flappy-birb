@@ -4,7 +4,7 @@ I made a piston, as that would be neccesary for my project, i designed it in ope
 I also 3dprinted it and assembled it and it worked well! I learnt a lot more about how much tolerance i should add for different things, and friction fitting.
 
 
-**Total time spent: Hour and 15 mins**
+**Total time spent:75 mins**
 
 
 
