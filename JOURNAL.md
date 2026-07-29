@@ -9,7 +9,14 @@ I also 3dprinted it and assembled it and it worked well! I learnt a lot more abo
 # Julie 25th and 26th
 This was more of me actually starting the project, and i was a bit lost. this isnt a traditional project in the sense that the first thing to do would be designing a pcb, and a pcb was more of an afterthought. to start off, i thought it was a good idea to get a bom working, so i did some claude assisted research. most of my bom is done. i also roughly drafted the wiring diagram and my thoughts in the brainstorm.md. and i made a todo checklist. i have no screenshots to show because everything is alr in the repo.
 
+<img width="1768" height="1298" alt="Screenshot 2026-07-29 at 12 25 20 PM" src="https://github.com/user-attachments/assets/a394a339-ac3d-4f67-9cad-4396b486eb39" />
+<img width="2076" height="1040" alt="Screenshot 2026-07-29 at 12 24 51 PM" src="https://github.com/user-attachments/assets/1e557c15-d350-40b5-b288-c3be7b3a4033" />
+<img width="1124" height="674" alt="Screenshot 2026-07-29 at 12 24 25 PM" src="https://github.com/user-attachments/assets/fd20460e-7048-4818-8ea4-3be37499aa01" />
+
+
 **Total time spent: 100 mins**
+
+
 
 
 
