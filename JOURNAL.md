@@ -16,6 +16,14 @@ This was more of me actually starting the project, and i was a bit lost. this is
 
 **Total time spent: 100 mins**
 
+# Julie 27-28
+SO i started off fixing the bom, taking account for what parts i have and getting the bird bom better. i also learnt about split flap displays, and im gonna add one to keep track of score. I also designed a pipe in oneshape(first time using it!). I also had to do some digging to find the pixel dimensions of flappy bird. the screen is 288x512 px. translating that into the game. 64 px = 1in, which means that it will be 8 px tall and a 16.1 in diameter.
+<img width="804" height="774" alt="Screenshot 2026-07-29 at 5 36 13 PM" src="https://github.com/user-attachments/assets/981839ce-38c6-4629-a94a-b987fdad8c24" />
+<img width="940" height="1048" alt="Screenshot 2026-07-29 at 5 35 08 PM" src="https://github.com/user-attachments/assets/d9d1b1ff-8708-4933-af3e-460724c87c6c" />
+<img width="1124" height="674" alt="Screenshot 2026-07-29 at 12 24 25 PM" src="https://github.com/user-attachments/assets/fd20460e-7048-4818-8ea4-3be37499aa01" />
+**Total time spent: 90 mins**
+
+
 
 
 
