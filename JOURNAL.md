@@ -31,6 +31,11 @@ so i learnt a bit about heatsets and added in a little part to the bottom of the
 **Total time spent: 70 mins**
 
 
+# 30th and 31st of julie
+so i made the top part of the crank which has the grub screw holes and the space for the motor. this was pretty tricky, and i had to graph out the the motor hole in desmos to make sure i got the dimensions right.<img width="2744" height="1602" alt="Screenshot 2026-08-13 at 3 46 41 PM" src="https://github.com/user-attachments/assets/44ce63de-01ea-4884-abd0-bbb7ead73b37" /> My dimensions ended up failing after i finished it as it was a bit to short, so i made it longer and instead of needing grub screws it just friction fit perfectly :heavysob: <img width="2232" height="1446" alt="Screenshot 2026-08-13 at 3 52 59 PM" src="https://github.com/user-attachments/assets/40c21703-13e4-4d51-a67d-765d6274eab2" /> this took a while  idek why probably an onshape skill issue.
+
+
+
 
 
 
