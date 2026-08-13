@@ -1,4 +1,5 @@
 # Julie 13 and 14th morning
+Im just gonna preface this by saying i suck at onshape and am still learning it.
 I made a piston, as that would be neccesary for my project, i designed it in openscad <img width="1364" height="1546" alt="Screenshot 2026-07-14 at 1 19 29 PM" src="https://github.com/user-attachments/assets/e394a67a-deba-4261-a5ac-96f36309c3e9" />
 
 I also 3dprinted it and assembled it and it worked well! I learnt a lot more about how much tolerance i should add for different things, and friction fitting.
@@ -22,6 +23,17 @@ SO i started off fixing the bom, taking account for what parts i have and gettin
 <img width="940" height="1048" alt="Screenshot 2026-07-29 at 5 35 08 PM" src="https://github.com/user-attachments/assets/d9d1b1ff-8708-4933-af3e-460724c87c6c" />
 <img width="1124" height="674" alt="Screenshot 2026-07-29 at 12 24 25 PM" src="https://github.com/user-attachments/assets/fd20460e-7048-4818-8ea4-3be37499aa01" />
 **Total time spent: 90 mins**
+
+# Julie 29th
+
+so i learnt a bit about heatsets and added in a little part to the bottom of the pipes where the heatset would go so it can get attached to the rod. Its just a little cutout in the pipe with a hole in it. I had to do a couple revisions to get it working. <img width="1688" height="1424" alt="Screenshot 2026-08-13 at 10 21 10 AM" src="https://github.com/user-attachments/assets/55540a23-7e45-4e23-aca8-67ab7da596f6" />. I then started working on the crank, and i had to do some research into how i would mount the tt motor to the crank, and thought i should use grub screws. I then started making the crank, and only got to making the circle and a heatset spot for the rod. <img width="2636" height="1726" alt="Screenshot 2026-08-13 at 12 14 45 PM" src="https://github.com/user-attachments/assets/e1136d2a-29eb-4262-8017-f760bf70760b" />
+
+**Total time spent: 70 mins**
+
+
+
+
+
 
 
 
