@@ -42,6 +42,18 @@ so i start off every single devlog with "so i", so i am changing it up this time
 **Total time spent: 30 mins**
 
 
+# atp idk
+
+i made the rod for my crank mechanism, and i printed it out and it didnt really work. this was because it was mounted sort of inside as the pipe, so it couldnt do a 360 degree rotation without hitting the pipe. i printed this thing that boosts it up a bit, while adjusting the rod size a lot and eventually it worked? i mean i thought it would work, but my crank has this weird think where when the crank is down its going up then it is pointing down. due to all of this, i kinda ended up switching to a rack and pinion, and that was funny. i did a bittings of work on rack and pinion, but i did a solid half and hour of research on how a rack and pinion / gears work cause i havent worked with them before. apparently theres thing thing called a module, which makes sure that gears mesh with each other. i managed to make a good rack and pinion, and they mesh really nicely once i printed it.
+<img width="1170" height="624" alt="Screenshot 2026-08-21 at 6 12 34 PM" src="https://github.com/user-attachments/assets/38d473ed-1054-420d-b7b5-64e1065c46b6" />
+<img width="612" height="266" alt="Screenshot 2026-08-21 at 6 35 22 PM" src="https://github.com/user-attachments/assets/06e6acc6-b533-4428-a111-5081eb129998" />
+
+
+**Total time spent: 135 mins**
+
+
+
+
 
 
 
