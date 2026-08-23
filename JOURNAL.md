@@ -51,6 +51,12 @@ i made the rod for my crank mechanism, and i printed it out and it didnt really 
 
 **Total time spent: 135 mins**
 
+# yesterday 😭
+
+so i had to finish up some stuff on the rack. i then had to remake my pipe so i could put the rack on it. the tricky part about this is i print the pipe vertically so it would be hard to just print the rack on it because it needs to be printed so the teeth arent overhanging. so i made the pipe and the rack two seperate parts that you heatset and put together. it was really funny. I kinda had to adjust a few things and remake the rack, so it took a while. <img width="1134" height="874" alt="Screenshot 2026-08-22 at 5 45 08 PM" src="https://github.com/user-attachments/assets/f1ce9cd9-54a0-4621-8eff-415d582f275d" />
+<img width="1398" height="592" alt="Screenshot 2026-08-22 at 5 45 44 PM" src="https://github.com/user-attachments/assets/fd2e2c9e-281b-4022-be4a-67e3b6f5b8eb" />
+
+**Total time spent: 60 mins**
 
 
 
