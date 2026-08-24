@@ -72,6 +72,7 @@ so i made a holder for the pipe, it was really basic at first, but i also had to
 
 
 
+**Total time spent: 80 mins**
 
 
 
