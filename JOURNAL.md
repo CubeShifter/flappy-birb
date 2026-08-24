@@ -58,6 +58,15 @@ so i had to finish up some stuff on the rack. i then had to remake my pipe so i 
 
 **Total time spent: 60 mins**
 
+# tommorow
+
+so i made a holder for the pipe, it was really basic at first, but i also had todesign a cutout for the screw and get the dimensions right so the gears would mesh nicely. it was really funny and weird and took me a while. I did also 3dp and assemble this, but apparently the video of this is to much aura for github. it worked pretty well but i hope my stepper motor can handle it. uh yeah it was funny ha ha.
+
+
+
+<img width="582" height="698" alt="Screenshot 2026-08-23 at 8 23 55 PM" src="https://github.com/user-attachments/assets/5b43d033-3db9-40fd-b16a-fe977d19ff3a" />
+
+
 
 
 
