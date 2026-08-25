@@ -74,6 +74,15 @@ so i made a holder for the pipe, it was really basic at first, but i also had to
 
 **Total time spent: 80 mins**
 
+# taco tuesday
+
+so welpsies i spent time iterating on my pipe holder design, a few things i wanted to do were to add top and bottom mounting holes, and also  remove some of the sides stuff so it is much less noisy. i aded in the bottom mounting holes fairly easy, but i learnt more about what overhangs 3dps can hanldle from the top. i also had to hollow out a lot of the holder to make less friction with the pipe which should directly equal less noise. <img width="808" height="776" alt="Screenshot 2026-08-24 at 8 03 39 PM" src="https://github.com/user-attachments/assets/04d5b1de-0725-4df7-a381-cd15bd24c8e9" />
+
+i also kinda did my first onshape assembly, i already printed my rack and pinion stuff and knew it worked, but i kinda did it in onshape for the learning expereince. its actually pretty interesting and REALLY satisfying. i had to learn about different types of mate connectors which was pretty cool. here i have a screenshot. <img width="708" height="618" alt="Screenshot 2026-08-24 at 8 06 40 PM" src="https://github.com/user-attachments/assets/c51dee18-7368-4e77-810e-a3aa3ca17f5d" />
+**Total time spent: 90 mins**
+
+
+
 
 
 
