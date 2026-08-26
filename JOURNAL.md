@@ -82,6 +82,15 @@ i also kinda did my first onshape assembly, i already printed my rack and pinion
 **Total time spent: 90 mins**
 
 
+# meatless monday( so apparently thats a thing)
+
+i did like one hour long lapse and 30 mins of off camera grinding, but this was across two days so here is day one. i was about to print all 12 of the pipe holders when i lowkey realized that i needed for the step motor to be able to mount. i then kinda worked on designing that, struggled a ton because the only measurement sheet i could find was in -5 resolution. i then found a good motor that i will order 12 of, and then i kinda went on a tangent cleaning up my bom and removing things i ordered for some raisin. i did end up modeling it, and when i printed it i realized i screwed up the dimensions and it was REALLY flimsy, so hey thats fun. i did do a bit of off camera grinding trying to use calipers to get some dimensions because all the stupid datasheets suck. anyway heres updated cad and me with my 3 newly aquired blahajs. <img width="988" height="1052" alt="Screenshot 2026-08-25 at 7 56 15 PM" src="https://github.com/user-attachments/assets/5b28680b-2026-4013-b8f6-24c3a34bbdbd" />
+<img width="1928" height="1286" alt="Photo on 8-25-26 at 4 44 PM" src="https://github.com/user-attachments/assets/123c77a1-ccae-4f45-b23e-19d90de59999" />
+
+**Total time spent: 45 mins**
+
+
+
 
 
 
