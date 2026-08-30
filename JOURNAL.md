@@ -92,7 +92,8 @@ i did like one hour long lapse and 30 mins of off camera grinding, but this was 
 # fried chicken friday(i created ts cause i had fried chicken last friday)
 
 mrewror mrewor mrowrer mrewror. sorry a cat walked on my keeyboard. i had to re design my pinion and i messed up the d bore shaft thingy a few times. i didnt really know what to do after this, so i learnt a bit more about how i would use belts and my stepper motor for the bird! i dont really have a screenshot. i also played around with my nema motor and my belts and gt2s and sorta got them working.
-
+<img width="1612" height="866" alt="Screenshot 2026-08-30 at 11 42 00 AM" src="https://github.com/user-attachments/assets/038b1ddb-4fe9-4046-890d-41991eb8aa91" />
+wait i kinda added a screenshot nvm.
 
 **Total time spent: 45 mins**
 
