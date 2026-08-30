@@ -89,6 +89,15 @@ i did like one hour long lapse and 30 mins of off camera grinding, but this was 
 
 **Total time spent: 45 mins**
 
+# fried chicken friday(i created ts cause i had fried chicken last friday)
+
+mrewror mrewor mrowrer mrewror. sorry a cat walked on my keeyboard. i had to re design my pinion and i messed up the d bore shaft thingy a few times. i didnt really know what to do after this, so i learnt a bit more about how i would use belts and my stepper motor for the bird! i dont really have a screenshot. i also played around with my nema motor and my belts and gt2s and sorta got them working.
+
+
+**Total time spent: 45 mins**
+
+
+
 
 
 
