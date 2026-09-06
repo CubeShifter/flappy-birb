@@ -107,6 +107,17 @@ so this was actually physical, the motor mounted well to the pipe holder/gear, a
 
 **Total time spent: 90 mins**
 
+# thorsday
+
+so i fixed my issue with the pipe holder. my issues were the fact that my gear would just fall of my motor, and thats it. i didnt really know how to do this, and i didnt really feel like buying set screws but we are buying set screws. i had to make a boss and shift over the mounting thing. yeah. i bought set screws tho. it wasnt that hard to cad it was just me not wanting to use set screws. i also started on the plate that rotates all the pipes, and i will have to split it up using my patented hole technology.
+
+
+
+<img width="1276" height="976" alt="Screenshot 2026-09-06 at 3 59 43 PM" src="https://github.com/user-attachments/assets/e7971fa7-a670-49ec-9d7c-087ad4bb5336" />
+
+<img width="1192" height="920" alt="Screenshot 2026-09-06 at 4 00 26 PM" src="https://github.com/user-attachments/assets/ba9fafb5-ae45-42d8-87c4-bf6a18d985eb" />
+
+**Total time spent: 60 mins**
 
 
 
