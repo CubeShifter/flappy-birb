@@ -97,6 +97,17 @@ wait i kinda added a screenshot nvm.
 
 **Total time spent: 45 mins**
 
+# vegetarian venesday
+
+ima be real with you. so i was locking in over the week but i lowk forgot about my journal, so now lets go back and see what this does.
+so this was actually physical, the motor mounted well to the pipe holder/gear, and i wanted to see if i could power it. sadly i didnt have an arduino so i had to solder header to my seed xiao, then cut and tin the wires because all of the were either male to male or female to female, fail, do it again, and spend far to long making sure nothing falls off my breadboard, vibe codign a test script cause i was tired, uploading it, and then it works i guess. it works tho. my git wont let me upload videos so you best belive this works.
+<img width="798" height="1806" alt="Screenshot 2026-09-06 at 3 38 49 PM" src="https://github.com/user-attachments/assets/810176f4-298c-4eeb-9771-46d6df59c922" />
+
+
+
+**Total time spent: 90 mins**
+
+
 
 
 
