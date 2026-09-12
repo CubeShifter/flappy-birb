@@ -148,6 +148,16 @@ i finished the gear and started to pattern it, and i also looked into what i sho
 
 **Total time spent: 20 mins**
 
+# straightest journal yet
+
+i tiled both of my gear sketches, THis was both the ring and pinion, and i learnt a lot about onshape during this. uhh it was pretty cool. i also spent far to long trying to bolean but i couldnt :(  <img width="1260" height="758" alt="Screenshot 2026-09-12 at 1 42 52 PM" src="https://github.com/user-attachments/assets/d7d853e7-1db8-4f48-a4c0-9ccf7cd7d581" />
+<img width="774" height="618" alt="Screenshot 2026-09-12 at 1 42 35 PM" src="https://github.com/user-attachments/assets/8582532a-21e2-479a-b649-2d6b5909f9b1" />
+
+
+**Total time spent: 40 mins**
+
+
+
 
 
 
