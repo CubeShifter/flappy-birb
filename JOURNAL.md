@@ -119,6 +119,12 @@ so i fixed my issue with the pipe holder. my issues were the fact that my gear w
 
 **Total time spent: 60 mins**
 
+# last friday night
+this was lowkey boring. i made parts of the bottom case, which was basically me just making a thing splitting it up into six parts and then adding pegs and holes. and then also assembling it in onshape. i made something that the pipe holders will mount onto, and made an enclosure for it, aswell as a top plate. i will probably have to redo a lot of this because i will be using a ring and pinion now.
+
+<img width="908" height="872" alt="Screenshot 2026-09-12 at 10 21 08 AM" src="https://github.com/user-attachments/assets/4bb123b4-0eaf-4008-af64-910fbc2cbb3d" />
+
+**Total time spent: 100 mins**
 
 
 
