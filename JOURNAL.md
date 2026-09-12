@@ -126,6 +126,13 @@ this was lowkey boring. i made parts of the bottom case, which was basically me 
 
 **Total time spent: 100 mins**
 
+# meow im a kitten
+
+so uhh i reprinted some parts with adding in the set screw and assembled it, this took a while surprisingly mainly because i mounted the motor the other way, idk the set screws work well, idreally have a photo.
+
+**Total time spent: 30 mins**
+
+
 
 
 
