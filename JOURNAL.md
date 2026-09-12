@@ -132,6 +132,12 @@ so uhh i reprinted some parts with adding in the set screw and assembled it, thi
 
 **Total time spent: 30 mins**
 
+# really gay journal
+
+i fixed the top plate assembly, and i did some research into how a ring and pinion works, because a disc is kinda tricky cause theres nothing to support the rest of this. i designed my own gear tooth, at least got the basic stuff of it. i also learned how to used the dimension tool and how to fillet stuff! <img width="1262" height="628" alt="Screenshot 2026-09-12 at 11 17 44 AM" src="https://github.com/user-attachments/assets/0efc299b-16e4-49af-b194-e14f01eff3a9" />
+
+**Total time spent: 30 mins**
+
 
 
 
