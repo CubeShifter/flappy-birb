@@ -140,6 +140,14 @@ i fixed the top plate assembly, and i did some research into how a ring and pini
 
 
 
+# semi gay journal
+
+i finished the gear and started to pattern it, and i also looked into what i should add between my two 3d printed parts to reduce friction, and settled on ptfe tape
+<img width="346" height="184" alt="Screenshot 2026-09-12 at 1 37 14 PM" src="https://github.com/user-attachments/assets/d988f30c-2511-41ce-b137-2fe34c26d6e9" />
+
+
+**Total time spent: 20 mins**
+
 
 
 
