@@ -128,7 +128,9 @@ this was lowkey boring. i made parts of the bottom case, which was basically me 
 
 # meow im a kitten
 
-so uhh i reprinted some parts with adding in the set screw and assembled it, this took a while surprisingly mainly because i mounted the motor the other way, idk the set screws work well, idreally have a photo.
+so uhh i reprinted some parts with adding in the set screw and assembled it, this took a while surprisingly mainly because i mounted the motor the other way, idk the set screws work well, idreally have a photo but im uploading one a week later cause its at my moms house :seavyhob:
+
+<img width="562" height="1032" alt="Screenshot 2026-09-13 at 7 16 46 PM" src="https://github.com/user-attachments/assets/183549f6-a570-4351-93e9-1c2e1122beac" />
 
 **Total time spent: 30 mins**
 
