@@ -174,6 +174,8 @@ so i made my ring be sliced, and it was really annoying cause i had to delete li
 
 
 **Total time spent: 60 mins**
+
+# INDUSTRY BABY x Charlie's Inferno x Verity x Misery x Bohemian Rhapsody x Hello Neighbor n stuff slowed+reverb
 so i added a d shart bore to my pinion and it worked well, i hate measuring it tho <img width="584" height="314" alt="Screenshot 2026-09-19 at 8 09 20 PM" src="https://github.com/user-attachments/assets/ad4a322c-883a-4bd5-ba90-33323957bc86" />.
 
 i added a spot for the nema 17 motor to mount to the edge, and added a cutout so it wouldnt fall cause gravity. i had to use a lot of calipers cause i did not trust ai summary. <img width="1516" height="1266" alt="Screenshot 2026-09-19 at 8 11 56 PM" src="https://github.com/user-attachments/assets/b3617883-6291-4979-b655-09515ff9134d" />
