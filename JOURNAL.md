@@ -158,6 +158,27 @@ i tiled both of my gear sketches, THis was both the ring and pinion, and i learn
 
 **Total time spent: 40 mins**
 
+# INDUSTRY BABY x Charlie's Inferno x Verity x Misery x Bohemian Rhapsody x Hello Neighbor n stuff
+
+so i did not think that you can refactor cad, but i did that today. my dimensions were weird and i got really paranoid. i ended up redoing it a few times and even redid the gear once or twice. I did work on splitting the ring into six slices so i can print it. meow  <img width="1616" height="1160" alt="Screenshot 2026-09-19 at 8 02 16 PM" src="https://github.com/user-attachments/assets/10a17bf9-a516-450a-8467-583b9212e05b" />
+
+**Total time spent: 40 mins**
+
+
+# INDUSTRY BABY x Charlie's Inferno x Verity x Misery x Bohemian Rhapsody x Hello Neighbor n stuff 1 hour version
+so i made my ring be sliced, and it was really annoying cause i had to delete like 60 teeth and my jittery ass hands kept on failing. i also added my patended pole hole system to the sides, and it worked pretty well when i printed it! i also added a ton of holes to the center because i will use it for something. i ddi a bit of digging into some slip ring stuff, and i realized im gonna have to make my own slip rings, but ill talk about that more in a later journal. 
+
+<img width="1428" height="1244" alt="Screenshot 2026-09-19 at 8 06 40 PM" src="https://github.com/user-attachments/assets/c5adea98-75e7-4f95-91ae-79df628c3235" />
+
+<img width="570" height="664" alt="Screenshot 2026-09-19 at 8 04 54 PM" src="https://github.com/user-attachments/assets/14d40748-e1fb-4c56-a8f8-5a04d2e8a473" />
+
+
+**Total time spent: 60 mins**
+so i added a d shart bore to my pinion and it worked well, i hate measuring it tho <img width="584" height="314" alt="Screenshot 2026-09-19 at 8 09 20 PM" src="https://github.com/user-attachments/assets/ad4a322c-883a-4bd5-ba90-33323957bc86" />.
+
+i added a spot for the nema 17 motor to mount to the edge, and added a cutout so it wouldnt fall cause gravity. i had to use a lot of calipers cause i did not trust ai summary. <img width="1516" height="1266" alt="Screenshot 2026-09-19 at 8 11 56 PM" src="https://github.com/user-attachments/assets/b3617883-6291-4979-b655-09515ff9134d" />
+
+**Total time spent: 60 mins**
 
 
 
